@@ -1,4 +1,4 @@
-# NC State Athletics Fan Site (Pro Starter)
+# NC State Athletics Fan Site 
 
 A polished, fast, mobile-first NC State fan site with search, featured posts, light/dark theme, PWA offline, share links, related posts, and more.
 
